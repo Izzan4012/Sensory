@@ -1,3 +1,7 @@
+UNTUK VIDEO AGAK TELAT KARENA GA BISA DI TEST LEWAT EMULATOR, DAN HP JUGA GA BISA DI DOWNLOAD.
+
+
+
 # Sensoryshi - Android Multi-Sensor Explorer 📱✨
 
 Aplikasi Android berbasis **Kotlin** dan **Jetpack Compose** yang memanfaatkan berbagai sensor perangkat Android dari kategori **Environment**, **Position**, dan **Motion** untuk memberikan respons/efek langsung pada antarmuka pengguna (UI) serta umpan balik suara (*audio feedback*).
